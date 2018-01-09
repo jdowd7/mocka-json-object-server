@@ -1,0 +1,50 @@
+{
+"asset": [
+    { "id":1, 
+      "name":"test283", 
+      "dateCreatedUTC":"2018-01-09T21:04:40.7722123", 
+      "createdBy":"9f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "dateModifiedUTC":"2018-01-09T21:04:40.7722123", 
+      "modifiedBy":"9f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "isDeleted":false, 
+      "fields":[] 
+    },
+    { "id":2, 
+      "name":"test284", 
+      "dateCreatedUTC":"2018-01-09T21:04:40.7722123", 
+      "createdBy":"5f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "dateModifiedUTC":"2018-01-09T21:04:40.7722123", 
+      "modifiedBy":"5f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "isDeleted":false, 
+      "fields":[] 
+    },
+      { "id":3, 
+      "name":"test285", 
+      "dateCreatedUTC":"2018-01-09T21:04:40.7722123", 
+      "createdBy":"6f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "dateModifiedUTC":"2018-01-09T21:04:40.7722123", 
+      "modifiedBy":"6f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "isDeleted":false, 
+      "fields":[] 
+    },
+    { "id":4, 
+      "name":"test286", 
+      "dateCreatedUTC":"2018-01-09T21:04:40.7722123", 
+      "createdBy":"7f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "dateModifiedUTC":"2018-01-09T21:04:40.7722123", 
+      "modifiedBy":"7f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "isDeleted":false, 
+      "fields":[] 
+    },
+       { "id":5, 
+      "name":"test283", 
+      "dateCreatedUTC":"2018-01-09T21:04:40.7722123", 
+      "createdBy":"9f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "dateModifiedUTC":"2018-01-09T21:04:40.7722123", 
+      "modifiedBy":"9f859f4b-205f-432b-b427-3e64abbb4e24", 
+      "isDeleted":false, 
+      "fields":[] 
+    }
+  ]
+}
+  
